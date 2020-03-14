@@ -26,7 +26,7 @@ if(x=="2"){xxx="healthy-lifestyles-your-choice.html"}
 if(x=="3"){xxx="3-day-diet-lose-weight-fast-for-special.html"}
 if(x=="4"){xxx="top-20-benefits-of-strength-training.html"}
 if(x=="5"){xxx="for-your-teeth-only-healthy-snacks.html"}
-if(x=="6"){xxx="vision-insurance-information-for-your.html"}a_to_ve[i].href="https://www.portal-healthy.xyz/2020/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="vision-insurance-information-for-your.html"}a_to_ve[i].href="https://portal.duniaislamku.com/2020/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
